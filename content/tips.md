@@ -2,6 +2,7 @@
 title: "Video Chat tips and tricks"
 date: 2020-04-13T05:31:18Z
 draft: false
+url: /submit/tips/
 ---
 
 I have been thinking a lot about how to make video chat better. I spend a lot of time hacking on video conference stuff: Software, equipment, hacks, etc. The one place I constantly get inspiration from is my friends. 

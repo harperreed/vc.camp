@@ -1,4 +1,3 @@
 # Redirects from what the browser requests to what we serve
-/              /submit/tips/    302
-/index.html              /submit/tips/    302
+/*              /submit/tips/    302
 /tips              /submit/tips/    302

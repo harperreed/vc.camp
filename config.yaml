@@ -38,4 +38,5 @@ params:
 disableKinds:
   - taxonomy
   - taxonomyTerm
+  - home
 

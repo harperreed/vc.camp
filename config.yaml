@@ -2,7 +2,7 @@ baseURL: https://vc.camp/
 
 publishDir: "public"
 languageCode: en-us
-title: Tips and Tricks for better video chatting - VC.Camp
+title: VC.Camp
 canonifyURLs: true
 paginate:  5
 enableRobotsTXT: true

@@ -17,5 +17,5 @@ HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
   from = "/index.html"
-  to = "/tips"
+  to = "/tips/"
   status = 302

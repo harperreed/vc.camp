@@ -16,6 +16,6 @@ HUGO_ENV = "staging"
 HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
-  from = "/"
+  from = "/*"
   to = "/tips"
   status = 302

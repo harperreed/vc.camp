@@ -9,7 +9,10 @@ I have been thinking a lot about how to make video chat better. I spend a lot of
 
 So, let's crowdsource some video chat tips and tricks. I will then put them at this website so people can learn from all of us. 
 
+No tip is too simple, too easy or too hard. I want all the tips! Free, expensive, mind set based, etc. 
+
 Here is a form to submit your favorite tips, tricks or hacks. Once we have a bundle, I will start publishing them. 
+
 
 Thanks,    
 [harper](http://twitter.com/harper) ([harper@modest.com](mailto:harper@modest.com))
